@@ -1,0 +1,5 @@
+{
+  "name": "HWPX File Merger",
+  "description": "PyQt5 기반의 HWPX 파일 병합 도구 및 GitHub Actions 빌드 설정",
+  "requestFramePermissions": []
+}
